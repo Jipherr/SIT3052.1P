@@ -1,6 +1,6 @@
-#A Simple Travel Companion App that converts units to other units.  
+# Simple Travel Companion App 
+This app converts units to other units. You can use it by inputting a value, choosing what you want to convert from and to, and click the Convert Now button.  
 This app was created for SIT305 2.1 Pass Task.  
-You can use it by inputting a value, choosing what you want to convert from and to, and click the Convert Now button.  
 
 It supports three categories of conversion:  
 Currency Exchange:   
